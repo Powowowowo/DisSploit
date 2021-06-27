@@ -4,7 +4,6 @@ A python3 library for abusing discords api
 <hr>
 # Progress
 Project is currently still in development
-<hr>
 # ToDo
 ```
 Complete   - ✔️
