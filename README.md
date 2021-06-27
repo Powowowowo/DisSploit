@@ -1,5 +1,6 @@
 # DisSploit
-A python3 library for abusing discords api
+A python3 library for abusing discords api<br>
+Join the discord server to notify me of any bugs <br>
 Discord Server: <a href="https://discord.gg/ZcNcJQvgB3">DisSploit</a>
 # Progress
 Project is currently still in development
