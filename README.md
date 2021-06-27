@@ -25,4 +25,13 @@ Misc:<br>
   Guild VC DoS ❌<br>
 <br>
 # Documentation
+Delete Webhook
+```python
+from DisSploit import Exploits
 
+# Setting up library
+DisSploit = Exploits.apiabuse()
+
+# Main code
+DisSploit.DeleteWebhook('webhook_url').execute()
+```
