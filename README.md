@@ -11,7 +11,7 @@ API Abuse:<br>
   Block Bypass ❌<br>
 <br>
 Render:<br>
-  Mask Message ✔️<br>
+  Mask Message ✔️ [PATCHED]<br>
   Edited Tag Position Changer ✔️<br>
 <br>
 URI:<br>
