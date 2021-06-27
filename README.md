@@ -1,5 +1,6 @@
 # DisSploit
 A python3 library for abusing discords api
+Discord Server: <a href="https://discord.gg/ZcNcJQvgB3">DisSploit</a>
 # Progress
 Project is currently still in development
 # ToDo
