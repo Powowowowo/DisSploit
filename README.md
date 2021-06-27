@@ -25,13 +25,57 @@ Misc:<br>
   Guild VC DoS ✔️<br>
 <br>
 # Documentation
-Delete Webhook
+
+Setting up exploits
+```python
+from DisSploit import Exploits
+
+APISploits = Exploits.apiabuse()
+RenderSploits = Exploits.render()
+URISploits = Exploits.URI()
+MiscSploits = Exploits.Misc()
+
+
+```
+
+API Abuse
 ```python
 from DisSploit import Exploits
 
 # Setting up library
-DisSploit = Exploits.apiabuse()
+APISploits = Exploits.apiabuse()
 
 # Main code
-DisSploit.DeleteWebhook('webhook_url').execute()
+APISploits.DeleteWebhook('webhook_url').execute()
+```
+Render Exploits
+```python
+from DisSploit import Exploits
+
+# Setting up library
+RenderSploits = Exploits.render()
+
+# Main code
+RenderSploits.editTagChange(token, channel_id, message)
+```
+URI Exploits
+```python
+from DisSploit import Exploits
+
+# Setting up library
+URISploits = Exploits.URI()
+
+# Main code
+URISploits.WDoS(token, channel_id)
+```
+Misc Exploits
+```python
+from DisSploit import Exploits
+
+# Setting up library
+MiscSploits = Exploits.Misc()
+
+# Main code
+MiscSploits.GuildVCDoS(token, guild_id)
+MiscSploits.UnverifyEmail(token, channel_id)
 ```
