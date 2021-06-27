@@ -5,7 +5,6 @@ A python3 library for abusing discords api
 # Progress
 Project is currently still in development
 # ToDo
-```
 Complete   - ✔️
 Incomplete - ❌
 
@@ -27,7 +26,5 @@ Misc:
   2000 Char Bypass ❌
   Guild VC DoS ❌
   
-```
-<hr>
 # Documentation
 
