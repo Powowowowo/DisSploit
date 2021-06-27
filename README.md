@@ -12,7 +12,7 @@ API Abuse:<br>
 <br>
 Render:<br>
   Mask Message ✔️<br>
-  Edited Tag Position Changer ❌<br>
+  Edited Tag Position Changer ✔️<br>
 <br>
 URI:<br>
   Windows DoS ❌<br>
