@@ -15,14 +15,14 @@ Render:<br>
   Edited Tag Position Changer ✔️<br>
 <br>
 URI:<br>
-  Windows DoS ❌<br>
+  Windows DoS ✔️<br>
 <br>
 Misc:<br>
   Glitched Mention ❌<br>
-  Unverify Email ❌<br>
+  Unverify Email ✔️<br>
   Custom Gif URL ❌<br>
   2000 Char Bypass ❌<br>
-  Guild VC DoS ❌<br>
+  Guild VC DoS ✔️<br>
 <br>
 # Documentation
 Delete Webhook
